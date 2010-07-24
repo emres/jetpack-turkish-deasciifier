@@ -2,11 +2,11 @@
     "id": "jid0-r9oBamECjmSeABxsbPfYJS2cQpo", 
     "dependencies": [
         "jetpack-core"
-    ], 
+    ],
 	"name": "turkish-deasciifier",
 	"fullName": "Turkish Deasciifier",
-    "description": "Turkish deasciifier.", 
-    "author": "Emre Sevinc (http://ileriseviye.org) <emre.sevinc@gmail.com>",
+	"description": "Turkish deasciifier.",
+	"author": "Emre Sevinc (http://ileriseviye.org) <emre.sevinc@gmail.com>",
 	"contributors": "Mustafa Emre Acer (http://www.mustafaacer.com/)",
 	"license": "BSD License (http://www.opensource.org/licenses/bsd-license.php)",
 	"version": "0.1"
