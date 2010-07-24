@@ -11,4 +11,4 @@ This system is based on the [Mustafa Emre Acer's](http://www.mustafaacer.com)
 Yüret](http://denizyuret.blogspot.com).
 
 This system is implemented using [Mozilla Labs Jetpack
-SDK](https://jetpack.mozillalabs.com/)
+SDK](https://jetpack.mozillalabs.com/).
