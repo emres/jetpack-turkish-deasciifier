@@ -1,5 +1,5 @@
 {
-    "id": "jid0-r9oBamECjmSeABxsbPfYJS2cQpo", 
+    "id": "jid0-r9oBamECjmSeABxsbPfYJS2cQpo",
     "dependencies": [
         "jetpack-core"
     ],
@@ -9,5 +9,5 @@
 	"author": "Emre Sevinc (http://ileriseviye.org) <emre.sevinc@gmail.com>",
 	"contributors": "Mustafa Emre Acer (http://www.mustafaacer.com/)",
 	"license": "BSD License (http://www.opensource.org/licenses/bsd-license.php)",
-	"version": "0.2"
+	"version": "0.2.1"
 }
