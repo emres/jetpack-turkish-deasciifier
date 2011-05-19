@@ -1,8 +1,5 @@
 {
     "id": "jid0-r9oBamECjmSeABxsbPfYJS2cQpo",
-    "dependencies": [
-        "jetpack-core"
-    ],
 	"name": "turkish-deasciifier",
 	"fullName": "Turkish Deasciifier",
 	"description": "Turkish deasciifier.",
